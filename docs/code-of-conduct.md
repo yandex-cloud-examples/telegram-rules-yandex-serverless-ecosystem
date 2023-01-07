@@ -56,3 +56,5 @@
 Мы рады вашим отзывам о нормах поведения, как и о других аспектах работы сообщества. Благодарим вас за ваш вклад в создание дружелюбного сообщества взаимной помощи, где участники относятся друг к другу с уважением.
 
 Чаты поддерживаются сообществом разработчиков Yandex Serverless Ecosystem.
+
+[Данная страница на GitHub](https://github.com/yandex-cloud-examples/telegram-rules-yandex-serverless-ecosystem/blob/main/docs/code-of-conduct.md)
